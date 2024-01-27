@@ -5,4 +5,6 @@
 3- Additionally I have added a image folder which consists of the test case passing image & the failure image of Wishlist funcitonality, I will mention why the wishlist is failing in another points.
 
 4- The test obectives were 4 to be done thorugh the playwright coding, out of 4 objectives 3 are done successfully, the Wishlist functionality was not able to be checked, as the amazon page got the idea that it was being ran from an external automation tool, the wishlist button was easily located but when clicking on it, it was showing a DOG image everytime I tried running that part of code. 
-The image for the same is added in the images folder. 
+The image for the same is added in the images folder.
+
+4 bugs have been found in the rt camp webiste shared in the manual all of them are mentioned in the issues tab of the repository.
